@@ -9,7 +9,7 @@ function Set() {
 			return null; // exit and return null to indicate an error
 		}
 
-		for (var i = 0: i < listA.length; i++) { // for every element in listA
+		for (var i = 0; i < listA.length; i++){ // for every element in listA
 			var nextValue = listA[i]; // get next value in the list
 
 			//for every element in listB
@@ -30,9 +30,7 @@ function Set() {
 
 	   var resultList = new Array();
        
-	   /*-------------------------------Insert your code here -------------------------------------*/
-	   
-	   /*-------------------------------Insert your code here -------------------------------------*/ 
+
 	   
 	   return resultList;
 	}
@@ -44,9 +42,7 @@ function Set() {
 
 	   var resultList = new Array();
        
-	   /*-------------------------------Insert your code here -------------------------------------*/
-	   	   
-	   /*-------------------------------Insert your code here -------------------------------------*/
+
        
 	   return resultList;
 	}
@@ -56,10 +52,8 @@ function Set() {
 	this.symmetricDifference = function(listA, listB) {
 
 	   var resultList = new Array();
-       
-	   /*-------------------------------Insert your code here -------------------------------------*/
 
-	   /*-------------------------------Insert your code here -------------------------------------*/
+
        
 	   return resultList;
 	}	
